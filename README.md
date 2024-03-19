@@ -1,61 +1,35 @@
-# Tekwill-academy
+## The code Magazine
+
+## The Basic Language of yhe Web: HTML
+
+## Posted by Laura Jones on Monday, June 21st 2027
+
+## All modern websites and web applications are built using three fundamental tehnologies: HTML, CSS and JavaScript. These are the languages of the web.
+
+## In this post, let's focus on HTML. We will learn what HTML is all about, and why you too should learn it.
+
+## What is HTML?
+
+## HTML stands for Hypertext Markup Language. It's a markup language thet web developers use to structure and discribe the content of a webpage (not a programming language).
+
+## In HTML, each elemnt is made up of 3 parts:
+
+## The opening tag
+## The closing tag
+## The actual element
+## You can learn more at the MDN Web Docs.
+
+## Why should you learn HTML?
+
+## There are countless reasons for learning the fundamental language of the web. Here are 5 of them:
+
+## To be able to use the fundamental web dev language
+## To hand-craft beautiful websites instead of relying on tools like Worpress or Wix.
+## To build web applications
+## To impress friends
+## To have fun :smiley:
 
 
-### Это проект являеться примером использования Markdown.
-
-
-
-# Описание
-
-
-
-### Markdown это простой и легкий в освоении язык форматирования тескт, часто используемый в проектной 
-### документации и веб-страницах. Этот файл README написан в Markdown.
-
-### B этом проекте я включила ссылку на официальную веб-страницу Markdown и показал, как форматировать тескт,
-### используя различные функции, такие как выделение полужирным шрифтом и создание списков.
-
-
-
-# Как использовать этот проект 
-
-
-
-
-### Чтобы ипользовать этот проект, просто загрузите или клонируйте файл с GitHub и откройте  его в текстовом 
-### редакторе или браузере чтобы увидеть, как форматирован текст.
-
-
-
-# Полезные ссылки
-
-
-
-### Чтобы узнать больше о синтаксисе Markdown, вы можете обратиться к следующим ссылкам:
-
-
-- <u> Официальная страница Markdown </u>
-
-- <u> Основной синтаксис Markdown </u>
-
-
-### Чтобы узнать больше о синтаксисе Markdown, вы можете обратиться к следующим ссылкам:
-
-
-- <u> Официальная страница Markdown </u>
-
-- <u> Основной синтаксис Markdown </u>
-
-
-### Кроме того, вы можете найти более подробный список функций синтаксиса Markdown по адресу:
-
-
-- <u> Полное руководство по синтаксису Markdown </u>
-
-
-
-
-
-
+## Hopefully you learned something new here. See you next time!
 
 
