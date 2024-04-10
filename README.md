@@ -12,6 +12,9 @@
 
 ## HTML stands for Hypertext Markup Language. It's a markup language thet web developers use to structure and discribe the content of a webpage (not a programming language).
 
+## HTML consisits elements that describe different types of content:paragraphs, linjs, headings,images, video, etc. Web browsers understand HTML and render HTML code as websites.
+
+
 ## In HTML, each elemnt is made up of 3 parts:
 
 ## The opening tag
