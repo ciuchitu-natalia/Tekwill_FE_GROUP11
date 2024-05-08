@@ -1,0 +1,13 @@
+
+.container {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(0, 255, 255); 
+    background-image: radial-gradient(circle, rgb(225, 0, 255), yellow, rgb(0, 128, 117));
+  }
+
+ h1 {
+    font-size: 60px;
+    color:blue;
+    text-shadow: 5px 5px 10px black, 5px 5px  10px grey;
+ } 
