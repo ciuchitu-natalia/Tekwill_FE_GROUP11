@@ -60,3 +60,13 @@ div {
     width: calc(50% + 150px);
     height: auto;
 }
+a:hover {
+    background-color: rgb(43, 226, 98);
+}
+
+.container {
+    height: 250px;
+    width: 400px;
+    background-color: rgb(0, 255, 255); 
+    background-image: radial-gradient(circle, rgb(225, 0, 255), yellow, rgb(0, 128, 117));
+  }
